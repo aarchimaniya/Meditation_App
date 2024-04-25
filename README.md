@@ -34,3 +34,13 @@ No Copying: Do not copy code or any other content from your classmates or any ot
 ## Images:
 
 <img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/d8c5f6e1-a1dc-4e09-822f-88552cb004b4" width="250">
+<img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/3f3b7bfd-034f-41ef-a38c-f5bd5ba538e8" width="250">
+<img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/6942f7d5-c7cf-4c8e-b939-7d63bbb27175" width="250">
+<img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/119de6a0-85af-4e9e-b480-948db41266df" width="250">
+<img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/11882735-b6bd-4dd8-a155-156f435055b6" width="250">
+<img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/1ca0e25a-e50b-409b-b847-4829868a35c8" width="250">
+<img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/8a319bd4-3b57-4f8d-bb91-ac62f34b6d70" width="250">
+<img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/c07c0f89-dd51-4d55-a7bf-c5aa02d31f43" width="250">
+<img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/1d4aae29-6f1e-4a5f-a886-af15c37f9eb3" width="250">
+<img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/9bfa9231-3ae3-4c51-b37a-1c8783b6dbae" width="250">
+<img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/c63eacc1-47c8-4664-893c-d03e2d8384c1" width="250">
