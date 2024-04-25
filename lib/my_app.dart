@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         ),
       ),
       darkTheme: ThemeData.dark().copyWith(),
-      themeMode: ThemeMode.dark,
+      themeMode: ThemeMode.system,
       routes: AppRoutes.route,
     );
   }

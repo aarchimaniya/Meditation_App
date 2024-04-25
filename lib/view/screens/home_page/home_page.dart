@@ -9,9 +9,9 @@ import 'package:flutter/material.dart';
 final List<String> imgList = [
   "lib/assets/images/category/image1.jpg",
   "lib/assets/images/category/image2.jpg",
-  "lib/assets/images/category/image3.jpg",
-  "lib/assets/images/category/image4.jpg",
-  "lib/assets/images/category/image5.jpg",
+  "lib/assets/images/category/aimage1.jpeg",
+  "lib/assets/images/category/bimage2.jpeg",
+  "lib/assets/images/category/cimage3.jpeg",
 ];
 
 class HomePage extends StatefulWidget {
@@ -31,8 +31,8 @@ class _HomePageState extends State<HomePage> {
         showDialog(
           context: context,
           builder: (context) => AlertDialog(
-            title: const Text("Blissful relaxing"),
-            content: const Text("hello how are you"),
+            title: const Text("To know yourself is to be confident"),
+            content: const Text("Relaxing"),
             actions: [
               Row(
                 children: [
@@ -74,13 +74,13 @@ class _HomePageState extends State<HomePage> {
                     onPressed: () {
                       exit(0);
                     },
-                    child: Text("yes"),
+                    child: Text("Yes"),
                   ),
                   OutlinedButton(
                     onPressed: () {
                       Navigator.pop(context);
                     },
-                    child: Text("no"),
+                    child: Text("No"),
                   ),
                 ],
               ),
@@ -138,11 +138,11 @@ class _HomePageState extends State<HomePage> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     const Text(
-                      "Giva Fashion",
+                      "LightThread Your Mind",
                       style: TextStyle(
                           fontSize: 25,
                           fontWeight: FontWeight.bold,
-                          color: Colors.black),
+                          color: Colors.white),
                     ),
                     Padding(
                         padding: EdgeInsets.all(10),

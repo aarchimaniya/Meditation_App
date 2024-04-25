@@ -19,7 +19,10 @@ class _DetailPageState extends State<DetailPage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Detail Page"),
+        title: const Text(
+          "Detail Page",
+          style: TextStyle(color: Colors.white),
+        ),
       ),
       body: Container(
         decoration: BoxDecoration(
@@ -103,14 +106,16 @@ class _DetailPageState extends State<DetailPage> {
           if (cartItems.contains(product)) {
             cartItems.remove(product);
             snackBar = SnackBar(
-              content: Text("${product['title']} removed from the CART !!"),
-              backgroundColor: Colors.red,
+              content:
+                  Text("${product['title']} Your Mind In Reflexing 🧘‍♀️ !!"),
+              backgroundColor: Colors.pink,
               behavior: SnackBarBehavior.floating,
             );
           } else {
             cartItems.add(product);
             snackBar = SnackBar(
-              content: Text("${product['title']} added to the CART !!"),
+              content:
+                  Text("${product['title']} Live your life Joyfully 🌷 !!"),
               backgroundColor: Colors.green,
               behavior: SnackBarBehavior.floating,
             );
@@ -118,8 +123,8 @@ class _DetailPageState extends State<DetailPage> {
 
           ScaffoldMessenger.of(context).showSnackBar(snackBar);
         },
-        icon: const Icon(Icons.shopping_cart),
-        label: const Text("Add to cart"),
+        icon: const Icon(Icons.self_improvement_outlined),
+        label: const Text("Reflexing"),
       ),
     );
   }
