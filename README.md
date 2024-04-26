@@ -47,5 +47,6 @@ No Copying: Do not copy code or any other content from your classmates or any ot
 
 ## Video:
 
-https://github.com/aarchimaniya/Meditation_App/assets/128701780/77d871cf-1e2b-419f-9813-55f9b1e31223
+https://github.com/aarchimaniya/Meditation_App/assets/128701780/8511a2a0-4433-434d-8c24-66fb995b9c5b
+
 
