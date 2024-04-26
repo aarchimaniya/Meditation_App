@@ -44,3 +44,8 @@ No Copying: Do not copy code or any other content from your classmates or any ot
 <img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/1d4aae29-6f1e-4a5f-a886-af15c37f9eb3" width="250">
 <img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/9bfa9231-3ae3-4c51-b37a-1c8783b6dbae" width="250">
 <img src="https://github.com/aarchimaniya/Meditation_App/assets/128701780/c63eacc1-47c8-4664-893c-d03e2d8384c1" width="250">
+
+## Video:
+
+https://github.com/aarchimaniya/Meditation_App/assets/128701780/77d871cf-1e2b-419f-9813-55f9b1e31223
+
